@@ -19,4 +19,4 @@ jobs:
     steps:
     - name: greet
       uses: docker://alpine:3.20
-      run: echo "hello"
+      run: echo "hello there"
